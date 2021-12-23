@@ -91,4 +91,8 @@ Mukana:
 ├── gradlew.bat
 ├── README.md
 └── settings.gradle
-``
+```
+
+## Loppuraportti
+
+[Projektin loppuraportti](https://docs.google.com/document/d/1qpovECIUg88Y2FXoEFxvmMpB0PRz308Tb4Qv90qqJTk/edit?usp=sharing)
